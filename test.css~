@@ -1,5 +1,10 @@
 body{
+<<<<<<< HEAD
 background-color: red;
 color: yellow;
-font-family: "Comic Sans MS";
+font-family: "Comic Sans MS", cursive, sans-serif;
+=======
+background-color: blue;
+color: red;
+>>>>>>> ab-2l_ng
 }
