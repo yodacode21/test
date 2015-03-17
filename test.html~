@@ -3,7 +3,7 @@
 	<link rel="stylesheet" type="text/css" href="test.css">
 </head>
 <body>
-	<h1>Hello Wilson!</h1>
+	<h1>Hello World!</h1>
 	<img src="myimage.gif"/>
 	<p>Wilson Angelo L. Ng, 2012-07453, CMSC 128 AB-2L</p>
 </body>
